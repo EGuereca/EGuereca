@@ -9,7 +9,7 @@ Bienvenido/a a mi perfil de GitHub. Soy un apasionado por el desarrollo de softw
 - 📫 Contáctame: jeguerecamunoz@gmail.com  
 
 ## 🛠 Tecnologías y herramientas  
-![PHP](https://img.shields.io/badge/:badgeContent?style=plastic&logo=%23777BB4)  
+![PHP](https://img.shields.io/badge/:badgeContent?logo=PHP)  
 ![Tecnología 2](https://img.shields.io/badge/-Tecnología2-informational?style=flat&logo=logo-de-la-tecnología&logoColor=white&color=2bbc8a)  
 *(Reemplaza con tus tecnologías favoritas usando [shields.io](https://shields.io/))*  
 
