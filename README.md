@@ -1,88 +1,81 @@
-# ¡Hola, soy Enrique! 👋  
+<!-- Encabezado con fondo y animaciones -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=¡Hola,%20soy%20Enrique!%20👋&fontSize=36&fontAlignY=35&desc=Desarrollador%20de%20Software%20Apasionado&descAlignY=55&descAlign=50" alt="header">
+</p>
 
-Bienvenido/a a mi perfil de GitHub. Soy un apasionado por el desarrollo de software. Aquí encontrarás proyectos personales, contribuciones a código abierto y más.  
-
-## 🔥 Sobre mí  
-- 🌱 Actualmente aprendiendo: Angular, Vue y React.  
-- 💡 Intereses: back-end, bases de datos.  
-- 🚀 Meta: Ser un referente en el munndo del desarrollo de software.  
-- 📫 Contáctame: jeguerecamunoz@gmail.com  
-
-## 🛠 Stack Tecnológico  
-
-### Lenguajes y Frameworks  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Bases de Datos  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Desarrollo Móvil  
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
-### Otras Herramientas  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## 📊 Estadísticas de GitHub  
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=eguereca&show_icons=true&theme=radical)  
-
-## 🌟 Proyectos destacados  
-- [Proyecto 1](https://github.com/eguereca/grupos): Breve descripción.  
-- [Proyecto 2](https://github.com/eguereca/integradora): Breve descripción.  
-
-## 📌 Pines  
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=eguereca&repo=repo-destacado&theme=dark)](https://github.com/eguereca/repo-destacado)  
+<p align="center">
+  <a href="mailto:jeguerecamunoz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/tu-usuario"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+</p>
 
 ---
 
-⭐️ Hecho con ❤️ por [Tu Nombre](https://github.com/eguereca)  
+## Sobre mí 🚀
+
+- 👨‍💻 Apasionado de la tecnología, el código limpio y los nuevos retos.
+- 🌱 Actualmente aprendiendo **Angular**, **Vue** y **React**.
+- 🎯 Objetivo: Ser un referente en el mundo del desarrollo de software.
+- 💡 Intereses: back-end, bases de datos, arquitectura de software.
+- 📫 Contacto: <a href="mailto:jeguerecamunoz@gmail.com">jeguerecamunoz@gmail.com</a>
 
 ---
 
-### 🔎 ¿Buscando algo específico?  
-¡No dudes en explorar mis repositorios o contactarme si quieres colaborar!  
+## 🛠 Stack Tecnológico
 
-📌 **PD:** Siempre estoy abierto/a a nuevas oportunidades y colaboraciones. 😊  
-
----  
-
-✨ **¡Gracias por visitar!** ✨  
-
----  
-
-*(Personaliza los enlaces, tecnologías y texto según tu perfil. Usa [emojis](https://emojipedia.org/) para darle más vida!)*  
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
-### 📜 Cita favorita  
-> *"Inserte una cita motivadora aquí"*  
+## 📊 Estadísticas
 
----  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eguereca&show_icons=true&theme=radical" alt="Estadísticas de GitHub"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eguereca&theme=radical" alt="GitHub Streak"/>
+</p>
 
-🔗 **Conécta conmigo:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/tu-usuario)  
+---
 
-*(Añade más redes si lo deseas)*  
+## 🌟 Proyectos Destacados
 
----  
+- [grupos](https://github.com/eguereca/grupos): Breve descripción.
+- [integradora](https://github.com/eguereca/integradora): Breve descripción.
 
-🎨 **Diseñado con Markdown y amor.**  
+---
 
----  
+## 📌 Pines
 
-*(Puedes personalizar colores, badges y disposición según tu estilo. Usa [GitHub Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet) para más íconos!)*  
+[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=eguereca&repo=repo-destacado&theme=dark)](https://github.com/eguereca/repo-destacado)
 
----  
+---
 
-**⚡ Fun fact:** *¡Comparte un dato curioso sobre ti!*  
+## 🔎 ¿Buscando algo específico?
 
----  
+¡Explora mis repositorios o contáctame para colaborar!  
+✨ Siempre abierto a nuevas oportunidades y retos.
 
-📌 **Nota:** Este README.md se actualiza periódicamente.  
+---
 
----  
+## 📜 Cita Favorita
 
-¡Espero que disfrutes explorando mi perfil! 🚀
+> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
+
+---
+
+## ⚡ Fun Fact
+
+¡Me encanta aprender cosas nuevas y compartir conocimiento con la comunidad!
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
