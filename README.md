@@ -8,24 +8,36 @@ Bienvenido/a a mi perfil de GitHub. Soy un apasionado por el desarrollo de softw
 - 🚀 Meta: Ser un referente en el munndo del desarrollo de software.  
 - 📫 Contáctame: jeguerecamunoz@gmail.com  
 
-## 🛠 Tecnologías y herramientas  
-![PHP](https://img.shields.io/badge/:badgeContent?logo=PHP)  
-![Tecnología 2](https://img.shields.io/badge/-Tecnología2-informational?style=flat&logo=logo-de-la-tecnología&logoColor=white&color=2bbc8a)  
-*(Reemplaza con tus tecnologías favoritas usando [shields.io](https://shields.io/))*  
+## 🛠 Stack Tecnológico  
+
+### Lenguajes y Frameworks  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Bases de Datos  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Desarrollo Móvil  
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+### Otras Herramientas  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📊 Estadísticas de GitHub  
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)  
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=eguereca&show_icons=true&theme=radical)  
 
 ## 🌟 Proyectos destacados  
-- [Proyecto 1](https://github.com/tu-usuario/proyecto1): Breve descripción.  
-- [Proyecto 2](https://github.com/tu-usuario/proyecto2): Breve descripción.  
+- [Proyecto 1](https://github.com/eguereca/grupos): Breve descripción.  
+- [Proyecto 2](https://github.com/eguereca/integradora): Breve descripción.  
 
 ## 📌 Pines  
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=repo-destacado&theme=dark)](https://github.com/tu-usuario/repo-destacado)  
+[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=eguereca&repo=repo-destacado&theme=dark)](https://github.com/eguereca/repo-destacado)  
 
 ---
 
-⭐️ Hecho con ❤️ por [Tu Nombre](https://github.com/tu-usuario)  
+⭐️ Hecho con ❤️ por [Tu Nombre](https://github.com/eguereca)  
 
 ---
 
