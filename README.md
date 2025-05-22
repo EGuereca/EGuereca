@@ -53,7 +53,7 @@
 
 ## 📌 Pines
 
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=eguereca&repo=repo-destacado&theme=dark)](https://github.com/eguereca/grupos)
+[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=eguereca&repo=repo-destacado&theme=dark)](https://github.com/eguereca/integradora)
 
 ---
 
