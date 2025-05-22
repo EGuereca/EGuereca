@@ -46,14 +46,14 @@
 
 ## 🌟 Proyectos Destacados
 
-- [grupos](https://github.com/eguereca/grupos): Breve descripción.
-- [integradora](https://github.com/eguereca/integradora): Breve descripción.
+- [Python](https://github.com/eguereca/grupos)
+- [Proyecto](https://github.com/eguereca/integradora)
 
 ---
 
 ## 📌 Pines
 
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=eguereca&repo=repo-destacado&theme=dark)](https://github.com/eguereca/integradora)
+[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=eguereca&repo=integradora&theme=dark)](https://github.com/eguereca/integradora)
 
 ---
 
