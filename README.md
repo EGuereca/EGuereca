@@ -56,6 +56,9 @@
 [![Pin](https://github-readme-stats.vercel.app/api/pin/?username=eguereca&repo=integradora&theme=dark)](https://github.com/eguereca/integradora)
 
 ---
+### 🏆 Logros
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=EGuereca&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🔎 ¿Buscando algo específico?
 
