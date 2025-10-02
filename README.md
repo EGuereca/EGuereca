@@ -6,8 +6,8 @@
 <!-- Redes de contacto -->
 <p align="center">
   <a href="mailto:jeguerecamunoz@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/tu-usuario"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/EGuereca"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/EGuereca"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
@@ -24,9 +24,8 @@
 ## 🛠 Tecnologías & Herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,ts,js,mysql,androidstudio,git,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=php,ts,js,mysql,androidstudio,git,vscode,angular,astro,bsd,bash,bootstrap,css,docker&theme=light" />
 </p>
-
 ---
 
 ## 📊 Estadísticas
