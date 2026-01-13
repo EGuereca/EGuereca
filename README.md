@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
 </div>
 
-<h1 align="center">Hola, soy <a href="https://github.com/TU_USUARIO" target="_blank">Tu Nombre</a> 👨‍💻</h1>
+<h1 align="center">Hola, soy <a href="https://github.com/TU_USUARIO" target="_blank">Enrique Guereca</a> 👨‍💻</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Desarrollador+Backend;Entusiasta+de+PHP+y+Laravel;Amante+del+Open+Source;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
@@ -16,10 +16,9 @@
 
 ### 🚀 Sobre mí
 
-- 🔭 Actualmente estoy trabajando en **proyectos con Laravel y Microservicios.**
+- 🔭 Actualmente estoy trabajando en **proyectos backend y Microservicios.**
 - 🌱 Estoy aprendiendo profundamente sobre **Arquitectura de Software y Docker.**
 - 👯 Busco colaborar en **proyectos Open Source.**
-- 💬 Pregúntame sobre **PHP, Bases de datos y Desarrollo Backend.**
 
 ---
 
