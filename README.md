@@ -69,10 +69,10 @@
 ---
 
 <div align="center">
-  <a href="mailto:tuemail@ejemplo.com">
+  <a href="mailto:jeguerecamunoz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
+  <a href="https://www.linkedin.com/in/jos%C3%A9-enrique-g%C3%BCereca-mu%C3%B1oz-66b9b5205/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</div>d
+</div>
